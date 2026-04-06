@@ -5,14 +5,8 @@ Smart way to navigate Cairo Metro بسهولة وسرعة
 ---
 
 ## 🎥 Demo Video
-(هنحط الفيديو بعد شوية)
 
----
-
-## 📱 Download App
-(هنحط اللينك بعد شوية)
-
----
+https://drive.google.com/file/d/1Kt6zQYMn7RkYQWJPGhgIX7VzVAVPWWyM/view?usp=drivesdk
 
 ## 📸 Screenshots
 
